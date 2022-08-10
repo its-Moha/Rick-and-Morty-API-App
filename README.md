@@ -15,6 +15,7 @@
  - loading Screen
  - Recyclerview
  - Item CardView
+ - ViewBinding
  
  
  # Screenshots
