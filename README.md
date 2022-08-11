@@ -17,5 +17,4 @@
  - Item CardView
  - ViewBinding
  
- 
- # Screenshots
+ # 📷Screenshots
